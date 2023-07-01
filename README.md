@@ -1,4 +1,4 @@
-# ElevatorX
+# Elevator
 Elevator management system using Rest Apis
 
 ## Installation
